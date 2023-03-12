@@ -1,7 +1,7 @@
 @echo off
-title image logger by ahoj#8537.
+title image logger by waaazup 👑#6405.
 color 9
-echo Image logger made by ahoj#8537
+echo Image logger made by waaazup 👑#6405
 timeout /T 3 /NOBREAK > nul
 cls
 color 2
